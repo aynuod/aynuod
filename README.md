@@ -23,5 +23,3 @@ You'll find various projects here related to **microservices**, **full-stack dev
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dounya-gourja&layout=compact)](https://github.com/dounya-gourja)
 
-### Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/dounya-gourja/count.svg)
