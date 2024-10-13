@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Dounya 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/dounya-gourja-820217214/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    <a href="https://github.com/your_github_username"><img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/></a>
+    <a href="https://www.instagram.com/dounya.gourja/profilecard/?igsh=MXh1MmZ4b3h5NGM5bQ=="><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://github.com/aynuod"><img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ### 👩‍💻 About Me
