@@ -1,20 +1,49 @@
-# GET_TO_KNOW_ME
-# Hi there 👋, I am Dounya! [LinkedIn](https://www.linkedin.com/in/dounya-gourja-820217214/) 😁
+<h1 align="center">Hi, I'm Dounya 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/dounya-gourja-820217214/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://github.com/your_github_username"><img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-Hello, my name is **Dounya Gourja**, and I’m a **Junior Software Engineer** with a passion for **Data Science** and **Machine Learning**. I have worked on a variety of projects in software development, and I have experience in machine learning and deep learning projects. I’ve built this GitHub profile to document my journey as I grow as a software engineer and dive deeper into **data science**.
+### 👩‍💻 About Me
 
-You'll find various projects here related to **microservices**, **full-stack development**, and **machine learning**, many of which I've worked on during my internships and personal time. I believe that if you’re going to spend time on something, it should bring you joy—and I love coding and solving real-world problems through technology!
+Hello! I'm Dounya Gourja, a *Junior Software Engineer* passionate about *Data Science* and *Machine Learning*. I enjoy building software that makes a difference and exploring innovative ways to solve problems through technology.  
 
-🔭 **Currently:** I'm in my final year, studying **Data Science and IoT** at ENSIAS.   
-📫 **How to reach me:** dounyagourja2@gmail.com  
-😄 **Fun fact:** I’m passionate about **Turkish culture**, and I love writing in my free time!  
+I’ve worked on a diverse set of projects, from *microservices* and *full-stack development* to *machine learning* models. My GitHub is where I document my growth and share the projects I’ve worked on—whether for internships, personal exploration, or collaborative initiatives.
 
-### Languages & Tools:
-- **Programming:** Java, Python, JavaScript
-- **Frameworks:** React.js, Spring Boot
-- **Orchestration tools:** Kafka, Airflow
-- **Big Data:** Hadoop, Hive, PySpark
-- **DevOps tools:** Docker, Jenkins, SonarQube
-- **Databases:** MongoDB, MySQL
+I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I’m excited to dive deeper into the world of *Software* and *Data  Sciences* solutions as I build my career.
+
+### 🔭 What I'm Working On
+- Exploring *microservices architecture* for scalable systems.
+- Developing *machine learning* models to solve real-world problems.
+- Integrating *Kafka* for distributed messaging in microservices applications.
+  
+### 📫 How to Reach Me
+- Email: dounyagourja2@gmail.com
+- LinkedIn: [Dounya Gourja](https://www.linkedin.com/in/dounya-gourja-820217214/)
+
+### ⚡ Fun Facts
+- I’m passionate about *Turkish culture* and love discovering new traditions.
+- Writing is my creative outlet in my free time!
+
+---
+
+### 🛠 Skills & Tools
+
+*Languages:*
+- Java | Python | JavaScript
+
+*Frameworks:*
+- React.js | Spring Boot
+
+*Data & Orchestration Tools:*
+- Kafka
+
+*DevOps & CI/CD Tools:*
+- Docker | Jenkins | SonarQube
+
+*Databases:*
+- MongoDB | MySQL
 
 
