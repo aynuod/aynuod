@@ -11,7 +11,7 @@ Hello! I'm Dounya Gourja, a *Junior Software Engineer* passionate about *Data Sc
 
 I’ve worked on a diverse set of projects, from *microservices* and *full-stack development* to *machine learning* models. My GitHub is where I document my growth and share the projects I’ve worked on—whether for internships, personal exploration, or collaborative initiatives.
 
-I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I’m excited to dive deeper into the world of *Software* and *Data  Sciences* solutions as I build my career.
+I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I’m excited to dive deeper into the world of *Software* and *Data Sciences* solutions as I build my career.
 
 ### 🔭 What I'm Working On
 - Exploring *microservices architecture* for scalable systems.
@@ -27,6 +27,7 @@ I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I
 
 ---
 
+<!-- 
 ### 🛠 Skills & Tools
 
 *Languages:*
@@ -39,9 +40,8 @@ I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I
 - Kafka
 
 *DevOps & CI/CD Tools:*
-- Docker | Jenkins 
+- Docker | Jenkins
 
 *Databases:*
 - MongoDB | MySQL
-
-
+-->
