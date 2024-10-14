@@ -16,7 +16,6 @@ I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I
 ### 🔭 What I'm Working On
 - Exploring *microservices architecture* for scalable systems.
 - Developing *machine learning* models to solve real-world problems.
-- Integrating *Kafka* for distributed messaging in microservices applications.
   
 ### 📫 How to Reach Me
 - Email: dounyagourja2@gmail.com
