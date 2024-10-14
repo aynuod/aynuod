@@ -39,7 +39,7 @@ I am currently pursuing my final year in *Data Science and IoT* at ENSIAS, and I
 - Kafka
 
 *DevOps & CI/CD Tools:*
-- Docker | Jenkins | SonarQube
+- Docker | Jenkins 
 
 *Databases:*
 - MongoDB | MySQL
